@@ -1,6 +1,6 @@
-## Hi 👋 I'm Tooba
+# Hi there 👋 I'm Tooba
 
-🚀 About Me
+## 🚀 About Me
 
 🎯 Currently: Actively seeking opportunities in AI/ML/Software Engineering
 
@@ -18,7 +18,7 @@
 
 
 
-🤝 Let's Connect!
+## 🤝 Let's Connect!
 
 💼 LinkedIn: [[Your LinkedIn URL](https://www.linkedin.com/in/tooba-rahimnia/)]
 
