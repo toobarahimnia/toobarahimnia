@@ -20,8 +20,8 @@
 
 ## 🤝 Let's Connect!
 
-💼 LinkedIn: [[Your LinkedIn URL](https://www.linkedin.com/in/tooba-rahimnia/)]
+💼 [[LinkedIn](https://www.linkedin.com/in/tooba-rahimnia/)]
 
-📧 Email: [Your email](trahimnia@gmail.com)
+📧 [Email](trahimnia@gmail.com)
 
-🌐 Portfolio: [[Your portfolio website](https://toobarahimnia.github.io/PersonalHub//)]
+🌐 [[Portfolio](https://toobarahimnia.github.io/PersonalHub//)]
