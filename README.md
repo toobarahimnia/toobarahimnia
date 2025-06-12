@@ -20,8 +20,8 @@
 
 ## 🤝 Let's Connect!
 
-💼 [[LinkedIn](https://www.linkedin.com/in/tooba-rahimnia/)]
+💼 [LinkedIn](https://www.linkedin.com/in/tooba-rahimnia/)
 
 📧 [Email](trahimnia@gmail.com)
 
-🌐 [[Portfolio](https://toobarahimnia.github.io/PersonalHub//)]
+🌐 [Portfolio](https://toobarahimnia.github.io/PersonalHub//)
