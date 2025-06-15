@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Tooba
+# Hi 👋 I'm Tooba
 
 ## 🚀 About Me
 
